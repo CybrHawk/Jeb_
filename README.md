@@ -2,7 +2,7 @@
 Multicolour Minecraft 3D printed RGB Sheep Jeb_ - Standalone WiFi and Batteries with self made 3d files and electronics.
 
 ## All 3D files are also available on Printables.com, along with instructions :
-![Printables.com](https://www.printables.com/model/841892-project-jeb_-rainbow-minecraft-sheep)
+[Printables.com](https://www.printables.com/model/841892-project-jeb_-rainbow-minecraft-sheep)
 
 ## For the Potentiometer version, please refer to V3 folder for the code.
 
